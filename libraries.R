@@ -1,0 +1,16 @@
+#packages
+
+library("tidyr", lib.loc="~/R/win-library/3.2")
+library("ggplot2", lib.loc="~/R/win-library/3.2")
+library("dplyr", lib.loc="~/R/win-library/3.2")
+library("plyr", lib.loc="~/R/win-library/3.3")
+library("psych", lib.loc="~/R/win-library/3.3")
+library("car", lib.loc="~/R/win-library/3.3")
+library("igraph", lib.loc="~/R/win-library/3.3")
+library("tuneR", lib.loc="~/R/win-library/3.3")
+library("signal", lib.loc="~/R/win-library/3.3")
+library("mathgraph", lib.loc="~/R/win-library/3.3")
+library("statnet", lib.loc="~/R/win-library/3.3")
+library("lMatrix", lib.loc="~/R/win-library/3.3")
+library("lme4", lib.loc="~/R/win-library/3.3")
+library("MASS", lib.loc="~/R/win-library/3.3")
